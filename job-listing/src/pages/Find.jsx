@@ -55,7 +55,7 @@ const handleChange = (e) => {
 
   return (
     <div className='bg-blue-100 h-screen flex flex-col justify-center items-center'>
-      <h1 className='flex justify-center text-4xl'>Post-Jobs</h1>
+      <h1 className='flex justify-center text-4xl'>List-Jobs</h1>
       <div className='flex flex-col items-center'>
       <InputBox
   handleChange={handleChange}

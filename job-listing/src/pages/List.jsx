@@ -63,7 +63,7 @@ const List = () => {
 
   return (
     <div className="bg-gray-200">
-      <h1 className="flex justify-center text-3xl">List</h1>
+      <h1 className="flex justify-center text-3xl">Find-Jobs</h1>
       <div className="flex items-center mt-10">
         <input
           type="text"

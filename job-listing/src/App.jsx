@@ -14,13 +14,13 @@ function App() {
           className='text-3xl border-2 mt-50 ml-10 px-10 border-4 shadow-3xl bg-gray-800 text-white border-amber-300 border-b-blue-800'
           onClick={() => navigate('/list-job')}
         >
-          List Job
+          Find Job
         </button>
         <button
           className='text-3xl border-2 mt-50 ml-10 px-10 border-4 shadow-3xl bg-gray-800 text-white border-amber-300 border-b-blue-800'
           onClick={() => navigate('/find-job')}
         >
-          Find Job
+          List Job
         </button>
       </div>
     </div>
